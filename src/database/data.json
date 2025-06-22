@@ -1,0 +1,166 @@
+{
+  "Movies": [
+    {
+      "moviename": "Inception",
+      "language": "English",
+      "director_name": "Christopher Nolan",
+      "released_year": 2010,
+      "rating": 8.8,
+      "recommendation": 95,
+      "poster_url": "https://c4.wallpaperflare.com/wallpaper/764/590/391/inception-leonardo-dicaprio-movie-posters-2400x3500-entertainment-movies-hd-art-wallpaper-preview.jpg",
+      "platform": "Netflix, Amazon Prime Video"
+    },
+    {
+      "moviename": "Parasite",
+      "language": "Korean",
+      "director_name": "Bong Joon-ho",
+      "released_year": 2019,
+      "rating": 8.6,
+      "recommendation": 92,
+      "poster_url": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/96/96755/96755.jpeg?filename=parasite_poster.jpg",
+      "platform": "Amazon Prime Video, Hulu"
+    },
+    {
+      "moviename": "Interstellar",
+      "language": "English",
+      "director_name": "Christopher Nolan",
+      "released_year": 2014,
+      "rating": 8.6,
+      "recommendation": 90,
+      "poster_url": "https://images-cdn.ubuy.co.in/6352289f38bb253c44612d53-interstellar-movie-poster-24-x-36-inches.jpg",
+      "platform": "Amazon Prime Video, JioCinema"
+    },
+    {
+      "moviename": "3 Idiots",
+      "language": "Hindi",
+      "director_name": "Rajkumar Hirani",
+      "released_year": 2009,
+      "rating": 8.4,
+      "recommendation": 88,
+      "poster_url": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/e/b/7/small-3-idiots-aamir-khan-bollywood-movie-poster-skd6-dpostf-original-imagpmnmhk4tjyuf.jpeg?q=20&crop=false",
+      "platform": "Netflix, Amazon Prime Video"
+    },
+    {
+      "moviename": "Spirited Away",
+      "language": "Japanese",
+      "director_name": "Hayao Miyazaki",
+      "released_year": 2001,
+      "rating": 8.6,
+      "recommendation": 89,
+      "poster_url": "https://m.media-amazon.com/images/I/918bw53tMFL._UF894,1000_QL80_.jpg",
+      "platform": "Netflix"
+    },
+    {
+      "moviename": "Your Name",
+      "language": "Japanese",
+      "director_name": "Makoto Shinkai",
+      "released_year": 2016,
+      "rating": 8.4,
+      "recommendation": 87,
+      "poster_url": "https://images-cdn.ubuy.co.in/66674dab5797a2260d4bf344-your-name-movie-poster-glossy-finish.jpg",
+      "platform": "Netflix"
+    },
+    {
+      "moviename": "The Dark Knight",
+      "language": "English",
+      "director_name": "Christopher Nolan",
+      "released_year": 2008,
+      "rating": 9.0,
+      "recommendation": 97,
+      "poster_url": "https://m.media-amazon.com/images/I/41CRfXsE8SL._AC_UF1000,1000_QL80_.jpg",
+      "platform": "Amazon Prime Video, JioCinema"
+    },
+    {
+      "moviename": "Drishyam",
+      "language": "Malayalam",
+      "director_name": "Jeethu Joseph",
+      "released_year": 2013,
+      "rating": 8.3,
+      "recommendation": 91,
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/DrishyamMovie.jpg",
+      "platform": "Disney+ Hotstar, Amazon Prime Video"
+    },
+    {
+      "moviename": "Kumbalangi Nights",
+      "language": "Malayalam",
+      "director_name": "Madhu C. Narayanan",
+      "released_year": 2019,
+      "rating": 8.6,
+      "recommendation": 93,
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/98/Kumbalangi_Nights_poster.jpg",
+      "platform": "Amazon Prime Video"
+    },
+    {
+      "moviename": "Super Deluxe",
+      "language": "Tamil",
+      "director_name": "Thiagarajan Kumararaja",
+      "released_year": 2019,
+      "rating": 8.4,
+      "recommendation": 90,
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Super_Deluxe_film_poster.jpg",
+      "platform": "Netflix"
+    },
+    {
+      "moviename": "Vikram",
+      "language": "Tamil",
+      "director_name": "Lokesh Kanagaraj",
+      "released_year": 2022,
+      "rating": 8.3,
+      "recommendation": 89,
+      "poster_url": "https://www.tallengestore.com/cdn/shop/files/Vikram-KamalHaasan-TamilMoviePoster2_6e0dd72c-0b9f-472d-91ae-a92291a76c96.jpg?v=1714521539",
+      "platform": "Disney+ Hotstar"
+    },
+    {
+      "moviename": "KGF Chapter 2",
+      "language": "Kannada",
+      "director_name": "Prashanth Neel",
+      "released_year": 2022,
+      "rating": 8.3,
+      "recommendation": 94,
+      "poster_url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/567708143997813.6284a8db8a7b2.png",
+      "platform": "Amazon Prime Video"
+    },
+    {
+      "moviename": "Lucia",
+      "language": "Kannada",
+      "director_name": "Pawan Kumar",
+      "released_year": 2013,
+      "rating": 8.3,
+      "recommendation": 86,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQyMDA5ODkzN15BMl5BanBnXkFtZTgwMjIzMDkyMDE@._V1_.jpg",
+      "platform": "Amazon Prime Video, MX Player"
+    }
+  ],
+  "Trending": [
+    {
+      "moviename": "The Dark Knight",
+      "rating": 9.0,
+      "recommendation": 97,
+      "poster_url": "https://m.media-amazon.com/images/I/41CRfXsE8SL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "moviename": "Inception",
+      "rating": 8.8,
+      "recommendation": 95,
+      "poster_url": "https://c4.wallpaperflare.com/wallpaper/764/590/391/inception-leonardo-dicaprio-movie-posters-2400x3500-entertainment-movies-hd-art-wallpaper-preview.jpg"
+    },
+    {
+      "moviename": "Kumbalangi Nights",
+      "rating": 8.6,
+      "recommendation": 93,
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/98/Kumbalangi_Nights_poster.jpg"
+    },
+    {
+      "moviename": "Parasite",
+      "rating": 8.6,
+      "recommendation": 92,
+      "poster_url": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/96/96755/96755.jpeg?filename=parasite_poster.jpg"
+    },
+    {
+      "moviename": "KGF Chapter 2",
+      "rating": 8.3,
+      "recommendation": 94,
+      "poster_url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/567708143997813.6284a8db8a7b2.png"
+    }
+  ]
+}
